@@ -8,7 +8,7 @@ setup(
   author = 'Arinjay Shukla',                   # Type in your name
   author_email = 'ashukla1_be19@thapar.edu',      # Type in your E-Mail
   url = 'https://github.com/Arinjay24/Topsis-Arinjay-101903411',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Arinjay24/Topsis-Arinjay-101903411/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Arinjay24/Topsis-Arinjay-101903411/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['Easy to Use', 'Fascinating concept'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
