@@ -4,7 +4,7 @@ setup(
   packages = ['Topsis-Arinjay-101903411'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = 'It is a method of compensatory aggregation that compares a set of alternatives by identifying weights for each criterion, normalising scores for each criterion and calculating the geometric distance between each alternative and the ideal alternative, which is the best score in each criterion. An assumption of TOPSIS is that the criteria are monotonically increasing or decreasing. Normalisation is usually required as the parameters or criteria are often of incongruous dimensions in multi-criteria problems. Compensatory methods such as TOPSIS allow trade-offs between criteria, where a poor result in one criterion can be negated by a good result in another criterion. This provides a more realistic form of modelling than non-compensatory methods, which include or exclude alternative solutions based on hard cut-offs. An example of application on nuclear power plants is provided in',   # Give a short description about your library
+  description = 'Topsis',   # Give a short description about your library
   author = 'Arinjay Shukla',                   # Type in your name
   author_email = 'ashukla1_be19@thapar.edu',      # Type in your E-Mail
   url = 'https://github.com/Arinjay24/Topsis-Arinjay-101903411',   # Provide either the link to your github or to your website
